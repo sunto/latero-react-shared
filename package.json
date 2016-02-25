@@ -14,9 +14,10 @@
   "license": "ISC",
   "devDependencies": {
     "react": "^0.14.7",
-    "react-redux": "^3.1.0"
+    "redux": "^3.1.0"
   },
   "peerDependencies": {
-    "react-redux": "^3.1.0"
+    "react": "^0.14.7",
+    "redux": "^3.1.0"
   }
 }
