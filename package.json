@@ -1,5 +1,5 @@
 {
-  "name": "react-shared",
+  "name": "latero-react-shared",
   "version": "0.1.0",
   "description": "A shared package for react shared components.",
   "main": "lib/index.js",
