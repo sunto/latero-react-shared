@@ -1,0 +1,19 @@
+{
+  "name": "react-shared",
+  "version": "0.1.0",
+  "description": "A shared package for react shared components.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "\"babel-tape-runner tests/**/*.js | tap-spec\""
+  },
+  "keywords": [
+    "\"react\"",
+    "\"redux\""
+  ],
+  "author": "Sunny To",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^0.14.7",
+    "react-redux": "^3.1.0"
+  }
+}
