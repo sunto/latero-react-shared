@@ -17,7 +17,6 @@
     "redux": "^3.1.0"
   },
   "peerDependencies": {
-    "react": "^0.14.7",
     "redux": "^3.1.0"
   }
 }
