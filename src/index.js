@@ -1,4 +1,4 @@
-import Redux from 'redux'
+import {createStore, applyMiddleware, combineReducers} from 'redux'
 
 export const testConstFunction = () => {
   return "test const function called."
