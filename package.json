@@ -1,6 +1,6 @@
 {
   "name": "latero-react-shared",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "A shared package for react shared components.",
   "main": "lib/index.js",
   "scripts": {
