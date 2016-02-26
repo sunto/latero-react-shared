@@ -5,5 +5,5 @@ export const testConstFunction = () => {
 }
 
 export default {
-  printMsg: () => {console.log("This is a default print message.")}
+  messagePropertyText: "text"
 }
